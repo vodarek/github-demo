@@ -2,5 +2,6 @@
 udemy git course
 
 ## New Section
+New section content.
 ### Subsection
 
