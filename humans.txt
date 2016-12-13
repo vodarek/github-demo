@@ -1,1 +1,2 @@
 Hello humans.  This is my file for you.
+Adding changes before rebasing conflichts.
