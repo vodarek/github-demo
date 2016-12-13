@@ -4,7 +4,7 @@ udemy git course
 ## New Section
 New section content.
 ### Subsection
-New subsection content.
+New subsection content.  Adding just a bit more from myFeature branch.
 
 ### Copyright
 copyright
