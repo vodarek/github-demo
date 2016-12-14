@@ -1,6 +1,7 @@
 Hello humans.  This is my file for you.
 Adding some conflicting changes.
 Adding changes before rebasing conflichts.
+Quick change for stash.
 Changes changes changes.
 Trouble in the middle.
 Changes to cause trouble.
