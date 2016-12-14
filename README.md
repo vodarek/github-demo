@@ -7,7 +7,7 @@ New section content.
 New subsection content.  Adding just a bit more from myFeature branch.
 
 ### Copyright
-copyright
+copyright is great
 
 ## New section
 
