@@ -3,6 +3,7 @@ Adding some conflicting changes.
 Adding changes before rebasing conflichts.
 Quick change for stash.
 Changes changes changes.
+Edit some more.
 Trouble in the middle.
 Changes to cause trouble.
 Adding some conflicting more changes.
