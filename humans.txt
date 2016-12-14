@@ -5,6 +5,7 @@ Quick change for stash.
 Changes changes changes.
 Edit some more.
 Extra text for stash...
+Again a change for stash.
 Trouble in the middle.
 Changes to cause trouble.
 Adding some conflicting more changes.
